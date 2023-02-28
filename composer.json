@@ -2,11 +2,6 @@
     "name": "trado006/ducky",
     "type": "library",
     "license": "MIT",
-    "autoload": {
-        "psr-4": {
-            "Trado006\\Ducky\\": "src/"
-        }
-    },
     "authors": [
         {
             "name": "trado006"
